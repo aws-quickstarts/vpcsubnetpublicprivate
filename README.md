@@ -1,9 +1,7 @@
 # VPC Subnet Public Private
 
-VPC Subnet Public Private
-
-## VPC
-
-## Public Subnet
-
-## Private Subnet
+Esse arquivo cria:
+- Uma VPC;
+- Duas Public Subnets;
+- Dois NAT Gateways;
+- Duas Private Subnets;
