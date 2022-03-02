@@ -4,6 +4,6 @@
         "Region": "us-east-2",
         "AZ1": "us-east-2a",
         "AZ2": "us-east-2b",
-        "TechTeamEmail": "gianluca.silva@itau-unibanco.com.br"
+        "Owner": "tg"
     }
 }
