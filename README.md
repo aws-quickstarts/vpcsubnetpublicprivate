@@ -3,5 +3,4 @@
 Esse arquivo cria:
 - Uma VPC;
 - Duas Public Subnets;
-- Dois NAT Gateways;
 - Duas Private Subnets;
