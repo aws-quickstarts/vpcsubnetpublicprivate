@@ -1,6 +1,6 @@
-# VPC Subnet Public Private
+# VPC, Private and Public Subnets
 
-Esse arquivo cria:
-- Uma VPC;
-- Duas Public Subnets;
-- Duas Private Subnets;
+This project creates:
+- VPC
+- Two private subnets;
+- Two public subnets;
