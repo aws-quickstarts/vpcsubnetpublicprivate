@@ -1,4 +1,4 @@
-# VPC, Private and Public Subnets
+# vpcsubnetpublicprivate
 
 This project creates:
 - VPC
